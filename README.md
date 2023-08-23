@@ -1,6 +1,7 @@
 # geeksterProj3
+hosted link -> https://aadarsh-raj.github.io/geeksterProj3/htmlfile/index.html
 
-
+#tags used
 <img width="413" alt="image" src="https://github.com/Aadarsh-Raj/geeksterProj3/assets/74525154/9eb68d09-b5f6-41c7-84f8-cc9c9be01136">
 body -> main contents is in it.
 h(1/2/3/4/5/6) -> for heading
